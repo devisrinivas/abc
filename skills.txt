@@ -1,2 +1,3 @@
 git is lightweight
 git is very fast
+git is more features
