@@ -1,4 +1,11 @@
 git is lightweight
 git is very fast
+<<<<<<< HEAD
 git is more features
 easy to learn
+=======
+
+git is more features
+easy to learn
+
+>>>>>>> 7fe2741f84ad9275e4992c6d8863cef0c62ca83a
