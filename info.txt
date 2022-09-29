@@ -7,4 +7,5 @@ kubernets1
 azure1
 moitoring
 tomcat
-
+amazon web service
+google cloud
