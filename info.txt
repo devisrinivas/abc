@@ -5,3 +5,6 @@ added by devi
 azure devops
 kubernets1
 azure1
+moitoring
+tomcat
+
