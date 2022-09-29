@@ -3,3 +3,5 @@ svn
 docker
 added by devi
 azure devops
+kubernets1
+azure1
