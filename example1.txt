@@ -3,7 +3,12 @@ aws
 amazon
 cloud
 Gcp
+html
+css
 html 
 css
 javascript
+c
+java
 python
+
