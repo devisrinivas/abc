@@ -10,10 +10,9 @@ css
 javascript
 c
 java
-<<<<<<< HEAD
 dbms
-=======
+
 python
 data base
 azure
->>>>>>> b8555a238acd74b8260d2ed78bb333e0d42c2d54
+
